@@ -1,0 +1,2 @@
+/Users/nanantim/flutter_projects/campus_conn 2/android/app/.cxx/RelWithDebInfo/3fe4q27c/x86_64/CMakeFiles/edit_cache.dir
+/Users/nanantim/flutter_projects/campus_conn 2/android/app/.cxx/RelWithDebInfo/3fe4q27c/x86_64/CMakeFiles/rebuild_cache.dir
